@@ -3,21 +3,6 @@
 **/Uniswap
 **/package-lock.json
 # dependencies
-/node_modules
-/.pnp
-.pnp.js
-*/cache
-**/database.db
-**/contract-address.json
-**/node_modules
-**/*.bytecode.js
-**/*.abi.js
-**/*.address.js
-**/yarn.lock
-**/artifacts
-**/cache
-**/debug
-**/target
 
 # testing
 coverage
