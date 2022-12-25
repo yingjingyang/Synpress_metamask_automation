@@ -21,4 +21,5 @@ yarn-error.log*
 
 .idea
 .vscode
+/yarn.lock
 mnemonic.txt
